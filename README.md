@@ -70,7 +70,6 @@ def mc_control (env, gamma = 1.0,
     V = np.max(Q, axis=1)
     pi = {s: np.argmax(Q[s]) for s in range(nS)}
 
-  #return Q, V, pi, Q_track, pi_track
     return Q, V, pi
 ```
 
@@ -78,7 +77,7 @@ def mc_control (env, gamma = 1.0,
 ### Name: ADHITHYARAM D
 ### Register Number: 212222230008
 
-![image](https://github.com/user-attachments/assets/bcb7f83f-5c9a-4ffb-88a2-47a8b087a152)
+<img src = "https://github.com/user-attachments/assets/bcb7f83f-5c9a-4ffb-88a2-47a8b087a152" width="400" height="300">
 
 ## RESULT:
 
