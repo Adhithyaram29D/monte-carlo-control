@@ -78,6 +78,7 @@ def mc_control (env, gamma = 1.0,
 ### Register Number: 212222230008
 
 <img src = "https://github.com/user-attachments/assets/bcb7f83f-5c9a-4ffb-88a2-47a8b087a152" width="400" height="300">
+
 ![image](https://github.com/user-attachments/assets/57f54663-692e-49b0-9611-8fa41b2575d3)
 
 ## RESULT:
